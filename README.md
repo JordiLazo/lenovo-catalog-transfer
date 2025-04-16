@@ -1,4 +1,4 @@
-# Excel Data Copier from Lenovo catalog
+# Lenovo catalog transfer
 
 A Python tool that helps extract and consolidate data from multiple Excel worksheets into a single destination file according to specific formatting rules. The program uses a graphical interface for easy selection of source files, destination files, and worksheets.
 
