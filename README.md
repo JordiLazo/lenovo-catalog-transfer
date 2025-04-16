@@ -1,6 +1,6 @@
-# Excel Data Copier - Code Explanation
+# Excel Data Copier from Lenovo catalog
 
-This document explains the functionality and internal workings of the Python script designed to selectively copy data between Excel workbooks based on configurable rules.
+A Python tool that helps extract and consolidate data from multiple Excel worksheets into a single destination file according to specific formatting rules. The program uses a graphical interface for easy selection of source files, destination files, and worksheets.
 
 ## Overview
 
